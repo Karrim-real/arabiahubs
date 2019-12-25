@@ -1,0 +1,151 @@
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+    font-size: 14px;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.navbar-inverse{
+	background: rgb(0, 0, 0, 0.3);
+	border: none;
+}
+
+html,body ,.cover{
+	height: 100%;
+	
+	
+
+}
+.cover{
+	background: url('../img/arabiahub2.jpg')top left no-repeat;
+	background-size: cover;
+	display: table;
+	width: 100%;
+	padding: 0 10%;
+	box-shadow: inset 0 0 100px #002;
+}
+.cover-text{
+	text-align: center;
+	color: white;
+	margin-top: 23%;
+}
+.cover-text h1{
+	font-family: sans-serif;
+	font-size: 70px;
+	letter-spacing: -4px;
+}
+.cover-text p{
+	font-size: 20px;
+}
+.icon{
+	font-size: 40px;
+	margin: 20px auto;
+	padding: 2px;
+	width: 80px;
+}
+.fa-wifi{
+	color: rgba(154, 19, 19, 0.83);
+}
+
+.img-circle{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+}
+.testimony{
+	background: #000;
+}
+blockquote{
+	font-family: Georgia,Times, serif;
+	font-style: italic;
+	font-size: 20px;
+	margin: 0;
+	border: none;
+	display: block;
+	color: white;
+}
+blockquote cite{
+	text-align: right;
+	display: block;
+	text-transform: uppercase;
+	font-family: Helvertica, Arial, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: #333;
+	margin-top: 20px;
+}
+
+section{
+	padding: 80px;
+}
+h2,h3{
+	text-align: center;
+	font-size: 29px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 0 0 60px;
+}
+#teams{
+	background: url('../img/mola.jpg')top left no-repeat;
+	background-size: cover;
+	color: white;
+	text-align: center;
+
+}
+#teams h3{
+	margin-bottom: 40px;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Georgia, Arial, sans-serif;
+}
+#teams h3{
+	font-family: Arial, sans-serif;
+	letter-spacing: -3px;
+}
+
+#sign-up{
+	text-align: center;
+}
+#sign-up h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+#sign-up p{
+	font-size: 24px;
+	text-transform: capitalize;
+	margin-top: 0 0 60px;
+}
+.input-group{
+	margin:0 auto;
+
+}
+footer{
+	background: #24292e;
+	color: white;
+	height: 300px;
+}
+/* footer h2{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: Georgia, Arial, sans-serif;
+	margin-bottom: 50px;
+	
+
+} */
+ul{
+	list-style: none;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+
+.footer-text{
+	font-weight: ;
+	font-family: Georgia, Arial, sans-serif;
+	margin-bottom: 50px ;
+	font-size: 30px;
+
+}
+li{
+	color: lightgray;
+}
